@@ -1,0 +1,4 @@
+<http-server hostname="stageapi.danmurphys.com.au" port="443" ssl="true"
+    uid="stageapi.danmurphys.com.au" urlrewriting-argument-name=""
+    urlrewriting-enabled="false" urlrewriting-path-extension="false"
+    urlrewriting-path-not-equals="false" urlrewriting-path-separator=";"/>

@@ -1,0 +1,1 @@
+<variable-currentdate inc-type="-1" inc-value="0" name="C_TS" order="1" pattern="milliseconds since the UNIX epoch" policy="1" range="2" uid="7b3527c0-792e-419a-b1bc-4579bebc0e54" whenOutOfValues="CYCLE_VALUES"/>

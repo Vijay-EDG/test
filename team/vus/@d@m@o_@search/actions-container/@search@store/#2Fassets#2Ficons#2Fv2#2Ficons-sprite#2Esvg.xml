@@ -1,0 +1,46 @@
+<http-page executeResourcesDynamically="false"
+    name="/assets/icons/v2/icons-sprite.svg"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@d@m@o_@search/%resources%/recorded-artifacts/49263759-c674-43be-8af7-8d2bc9f5da0b.zip"
+    slaProfileEnabled="false" thinkTime="2038"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="49263759-c674-43be-8af7-8d2bc9f5da0b">
+    <embedded-action>a8f2b90c-689f-424b-96b4-ddfa5c44bf1a</embedded-action>
+</http-page>
+<http-action actionType="1" eTag="&quot;0c16159d7d71:0&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/assets/icons/v2/icons-sprite.svg"
+    path="/assets/icons/v2/icons-sprite.svg" postType="2"
+    recordedArtifactZipFileName="team/vus/@d@m@o_@search/%resources%/recorded-artifacts/49263759-c674-43be-8af7-8d2bc9f5da0b.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="stage.danmurphys.com.au" slaProfileEnabled="false"
+    uid="a8f2b90c-689f-424b-96b4-ddfa5c44bf1a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_a8f2b90c-689f-424b-96b4-ddfa5c44bf1a</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_a8f2b90c-689f-424b-96b4-ddfa5c44bf1a.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="at_check=true; cacheBustKey=1638346179783; AMCVS_1124C2D754E497DC0A4C98C6%40AdobeOrg=1; unbxd.userId=uid-1638346183607-12443; unbxd.visit=first_time; unbxd.visitId=visitId-1638346183619-44707; sf_siterefer=salesfloor; s_nr30=1638346185087-New; stg_danmurphys_sf_wdt_session_expiration_session=1638346185145; stg_danmurphys_sf_wdt_customer_id=bb4ovv043; stg_danmurphys_sf_wdt_fingerprint=31904426619219; fs_uid=rs.fullstory.com#TQCFZ#4944819312156672:5289839349227520/1669882029; mbox=session#a671f7fc36c2439d9101ef3dd8919f4d#1638348047; s_ecid=MCMID%7C19719502075672702211893284387524629147; ORA_FPC=id=5f9ebbbb-e16d-4387-a1d1-e954bf589810; WTPERSIST=; AMCV_1124C2D754E497DC0A4C98C6%40AdobeOrg=-1124106680%7CMCIDTS%7C18963%7CMCMID%7C19719502075672702211893284387524629147%7CMCAAMLH-1638950995%7C8%7CMCAAMB-1638950995%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1638353395s%7CNONE%7CMCAID%7CNONE%7CMCCIDH%7C0%7CMCSYNCSOP%7C411-18970%7CvVersion%7C5.2.0; mdLogger=false; kampyle_userid=92ac-23d7-d1ba-a71d-3f4c-e68a-06ec-39a7; kampyleUserSession=1638346200767; kampyleUserSessionsCount=3; kampyleSessionPageCounter=1; _gcl_au=1.1.1348515927.1638346202; _fbp=fb.2.1638346201894.190404291"/>
+    <header name="Host" value="stage.danmurphys.com.au"/>
+    <header name="If-Modified-Since" value="Fri, 12 Nov 2021 00:05:30 GMT"/>
+    <header name="If-None-Match" value="&quot;0c16159d7d71:0&quot;"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/dm/home"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;90&quot;, &quot;Google Chrome&quot;;v=&quot;90&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="same-origin"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 304 Not Modified&#xd;
+Cache-Control: no-cache&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "0c16159d7d71:0"&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+X-Powered-By: ASP.NET&#xd;
+Date: Wed, 01 Dec 2021 08:11:23 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

@@ -1,0 +1,5 @@
+<http-server hostname="adobeanalytics.danmurphys.com.au" port="443"
+    ssl="true" uid="adobeanalytics.danmurphys.com.au"
+    urlrewriting-argument-name="" urlrewriting-enabled="false"
+    urlrewriting-path-extension="false"
+    urlrewriting-path-not-equals="false" urlrewriting-path-separator=";"/>

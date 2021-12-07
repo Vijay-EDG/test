@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="selecttstore" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="937ebcfb-95e2-4539-8e2b-e4f0bc6a89e7" weightsEnabled="false">
+    <weighted-embedded-action uid="8c36adaf-8e72-42c5-aca5-5ae00dc4f227"/>
+    <weighted-embedded-action uid="5e0024ff-382b-4f3e-8145-2f9bf239949e"/>
+</basic-logical-action-container>

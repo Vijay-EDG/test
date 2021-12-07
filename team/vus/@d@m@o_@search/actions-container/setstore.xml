@@ -1,0 +1,11 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="setstore" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="296b82ec-dfbb-4a1a-a0bf-0274d93d7a4a" weightsEnabled="false">
+    <weighted-embedded-action uid="bd22d015-ffbd-4dbd-92f1-84f9873a1785"/>
+    <weighted-embedded-action uid="a86ff0cc-4754-4b0b-b0b7-4d5966464992"/>
+    <weighted-embedded-action uid="63f50d56-d4a5-42cd-a7ac-89edafb8a97c"/>
+    <weighted-embedded-action uid="c5f7d06c-3cc1-4691-9de4-51760735e08a"/>
+    <weighted-embedded-action uid="3e2803f2-7204-46a8-a2fe-e7391c927112"/>
+    <weighted-embedded-action uid="c41bd854-b844-4150-8c88-1744fd12c6c9"/>
+</basic-logical-action-container>

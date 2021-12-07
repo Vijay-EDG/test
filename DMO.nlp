@@ -1,0 +1,14 @@
+# Project description file
+
+project.name=DMO
+project.version=8.3
+project.original.version=8.3
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=7.11.1
+project.is-open-test-settings-after-upload=false
+project.id=f981fb2c-23fc-4d46-b474-eeaeea08e352
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/Vijay-EDG/test.git

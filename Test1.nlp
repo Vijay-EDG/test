@@ -1,0 +1,14 @@
+# Project description file
+
+project.name=Test1
+project.version=8.3
+project.original.version=8.3
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=7.11.1
+project.is-open-test-settings-after-upload=false
+project.id=bb26a725-2b96-4399-845d-64e8f5b8f197
+project.config.path=team
+project.config.storage=XML_MULTI
+team.server.enabled=true
+team.server.project=/Vijay-EDG/test.git
